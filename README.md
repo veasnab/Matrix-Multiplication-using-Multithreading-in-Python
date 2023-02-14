@@ -1,9 +1,9 @@
 
 <h1>tmath&208: Matrix Algebra With Applications</h1>
 <ul>
-  <li>List of labs using Python and Jupyter Notebook</li>
-  <li>List of Homeworks</li>
-  <li>Including Matrix Multiplication using threads in Python</li>
+  <li>Labs using Python and Jupyter Notebook</li>
+  <li>Matrix Homeworks</li>
+  <li>Research Paper on Matrix Multiplication using Multithreading in Python</li>
 </ul>
 click below for Jupyter Notebook via Binder!
 
