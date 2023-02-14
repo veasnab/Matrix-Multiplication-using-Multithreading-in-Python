@@ -6,6 +6,5 @@
   <li>Including Matrix Multiplication using threads in Python</li>
 </ul>
 click below for Jupyter Notebook via Binder!
-<br>.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/veasnab/tmath208/main</br>
+<br>[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/veasnab/tmath208/main)</br>
 
