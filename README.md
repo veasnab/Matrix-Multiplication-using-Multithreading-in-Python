@@ -1,6 +1,5 @@
-# tmath208
 
-<h1>Matrix Algebra With Applications</h1>
+<h1>TMath&208: Matrix Algebra With Applications</h1>
 <ul>
   <li>-List of labs using Python and Jupyter Notebook</li>
   <li>-List of Homeworks</li>
