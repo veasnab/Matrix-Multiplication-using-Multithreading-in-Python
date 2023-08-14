@@ -1,4 +1,4 @@
-<h1>Research Paper on Matrix Multiplication using Multithreading in Python</h1>
+# Research Paper on Matrix Multiplication using Multithreading in Python
 
 ## About Me
 
