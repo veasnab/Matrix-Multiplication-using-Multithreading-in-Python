@@ -1,8 +1,4 @@
-
-<h1>tmath&208: Matrix Algebra With Applications</h1>
-<ul>
-  <li>Research Paper on Matrix Multiplication using Multithreading in Python</li>
-</ul>
+<h1>Research Paper on Matrix Multiplication using Multithreading in Python</h1>
 
 ## About Me
 
